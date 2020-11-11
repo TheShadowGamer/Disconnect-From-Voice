@@ -9,7 +9,7 @@ module.exports = class DisconnectVoice extends Plugin {
     document.body.removeEventListener("keyup", this.keyup)
   }
   async keyup(event) {
-    if(event.key == "F4") {
+    if(event.key == "F3") {
       selectVoiceChannel(null)
     }
   }
