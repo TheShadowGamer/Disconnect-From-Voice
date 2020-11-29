@@ -1,6 +1,6 @@
 {
     "name": "Disconnect From Voice",
-    "version": "0.x.x",
+    "version": "1.0.0",
     "author": "TheShadowGamer#7931",
     "license": "MIT",
     "description": "This plugin allows you to disconnect from a voice channel using a keybind.",
